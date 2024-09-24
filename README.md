@@ -2,4 +2,4 @@
 - 👀 I’m interested in joining the buzzing industry of data analytics
 - 🌱 I’m currently improving my Excel, SQL, R and Tableau skills in preparation for my first job as an analyst. 
 - 📫 How to reach me @robertsoli, linkedin.com/in/oli-roberts-a856402b1
-- ⚡ Fun fact: Father of three, background in Operations and Sales Management, with a keen eye on the future! 
+- ⚡ Fun fact: Father of three, background in Operations and Management, with a keen eye on the future! 
